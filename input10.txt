@@ -1,0 +1,23 @@
+program xyz()
+const b=4;
+var b:int;
+begin
+a:=1;
+write("\nEnter a: ");
+read(a);
+if(a=10) (*using if*)
+then
+begin
+while(a>5)
+do
+begin
+write("\nEnter a again: ");
+read(a)
+end
+end;
+write("\na is : ");
+write(a);
+a:=a+5-4*2/2;
+write("\nAfter all operations, a is: ");
+write(a)
+end.(*comment*)

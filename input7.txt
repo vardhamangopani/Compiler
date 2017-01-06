@@ -1,0 +1,18 @@
+program xyz()
+const b=5;
+var a:int;
+c:float;
+d:boolean;
+begin
+a:=1;
+if(5) (*only boolean allowed in if condition & while condition*)
+then
+read(b); (*you cannot modify constants value*)
+a:=c; (*not allowed. both side should have same data types
+	only float->int is an exception*)
+c:=a; (*this is valid*)
+d:=c; (*not allowed*)
+a:=a+c+d; (*not allowed different datatypes in one expression*)
+write(a);
+a:=a-1 (*this is valid*)
+end.(*comment*)

@@ -1,0 +1,20 @@
+Mips Assembler Rev 3.0
+C:\Users\vardh\Desktop\mipsym-rev3.2.2\Assembler.exe
+C:\Users\vardh\workspace\Compiler\code.asm
+line 3 undefined opcode or wrong number or type of operands at character 0 in field 2
+line 6 undefined opcode or wrong number or type of operands at character 0 in field 2
+line 7 undefined opcode or wrong number or type of operands at character 0 in field 2
+line 8 undefined opcode or wrong number or type of operands at character 0 in field 2
+Warning, duplicate label:li on line 11.
+line 11 undefined opcode or wrong number or type of operands at character 0 in field 2
+line 12 undefined opcode or wrong number or type of operands at character 0 in field 2
+line 13 undefined opcode or wrong number or type of operands at character 0 in field 2
+Warning, duplicate label:sw on line 14.
+line 14 undefined opcode or wrong number or type of operands at character 0 in field 2
+Warning, duplicate label:la on line 16.
+line 16 undefined opcode or wrong number or type of operands at character 0 in field 2
+Warning, duplicate label:li on line 17.
+line 17 undefined opcode or wrong number or type of operands at character 0 in field 2
+Warning, duplicate label:syscall on line 18.
+Warning, duplicate label:li on line 19.
+line 19 undefined opcode or wrong number or type of operands at character 0 in field 2

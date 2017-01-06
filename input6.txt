@@ -1,0 +1,8 @@
+program xyz()
+var 
+x:int;
+x:int;
+begin 
+while x
+do x:=10 
+end.

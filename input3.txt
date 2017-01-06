@@ -1,0 +1,12 @@
+var abc := 45
+int abcd:= 4.5+ 9.2;
+if(not 10)
+then
+	while('abc') do done
+iff :=abc
+const a=2;
+begin
+end
+read write
+.
+$

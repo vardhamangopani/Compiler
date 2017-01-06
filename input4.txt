@@ -1,0 +1,7 @@
+program
+int xyz:= 45+10.2 (*Initialization*)
+var=ABC'HIIII' ()
+const = 123> 34;
+a , b
+
+.

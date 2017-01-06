@@ -1,0 +1,1 @@
+start input10.txt

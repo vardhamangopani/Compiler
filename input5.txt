@@ -1,0 +1,7 @@
+program xyz()
+const abc=1 ;
+var
+x: int;
+begin
+x:=10 (*changing constant's value*)
+end.
